@@ -63,7 +63,7 @@ export default function Home() {
               className="flex flex-wrap items-center justify-center lg:justify-start gap-4"
             >
               <Link
-                to="/configurator"
+                to="/product/volute-gold-leaf-no1"
                 className="px-8 py-4 rounded-full bg-gradient-to-r from-amber-400 via-amber-500 to-amber-600 text-zinc-950 font-bold text-xs uppercase tracking-widest flex items-center gap-2 shadow-2xl shadow-amber-500/30 hover:shadow-amber-500/50 hover:scale-105 transition-all duration-300"
               >
                 <Palette className="w-4 h-4" /> Launch 3D Studio

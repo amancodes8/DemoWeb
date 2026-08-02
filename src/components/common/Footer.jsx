@@ -66,7 +66,7 @@ export default function Footer() {
               <li><Link to="/products" className="hover:text-amber-400 transition-colors">Obsidian Slims</Link></li>
               <li><Link to="/products" className="hover:text-amber-400 transition-colors">Emerald Reserve</Link></li>
               <li><Link to="/products" className="hover:text-amber-400 transition-colors">Monarch Cigarillos</Link></li>
-              <li><Link to="/configurator" className="hover:text-amber-400 transition-colors">3D Customizer Studio</Link></li>
+              <li><Link to="/products" className="hover:text-amber-400 transition-colors">3D Products Catalog</Link></li>
             </ul>
           </div>
 
