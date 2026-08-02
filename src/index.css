@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+/* Pure Tailwind Utility Layers & Theme Directives */
+@layer utilities {
+  /* Luxury Gold Gradient Text via Tailwind Gradient Utilities */
+  .text-gold-gradient {
+    @apply bg-gradient-to-r from-amber-200 via-amber-400 to-amber-500 bg-clip-text text-transparent;
+  }
+
+  .text-silver-gradient {
+    @apply bg-gradient-to-r from-white via-zinc-200 to-zinc-400 bg-clip-text text-transparent;
+  }
+
+  /* Glassmorphic Panel Cards built with Tailwind opacity, backdrop-blur & borders */
+  .glass-panel {
+    @apply bg-zinc-900/75 backdrop-blur-xl border border-white/10;
+  }
+
+  .glass-panel-gold {
+    @apply bg-zinc-900/80 backdrop-blur-2xl border border-amber-500/30;
+  }
+
+  /* Typography Font Fallbacks */
+  .font-serif-luxury {
+    font-family: 'Cinzel', Georgia, serif;
+  }
+
+  .font-sans-luxury {
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+/* Global Root & Scrollbar Rules */
+html, body, #root {
+  @apply bg-zinc-950 text-zinc-100 max-w-full overflow-x-hidden min-h-screen;
+}
+
+::selection {
+  @apply bg-amber-400 text-zinc-950;
+}

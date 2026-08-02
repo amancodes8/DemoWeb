@@ -1,0 +1,76 @@
+{
+  "metrics": {
+    "totalRevenue": "$1,482,900",
+    "revenueGrowth": "+24.8%",
+    "activeOrders": 142,
+    "activeOrdersGrowth": "+12.3%",
+    "customDesignsCount": 3890,
+    "customDesignsGrowth": "+38.1%",
+    "avgOrderValue": "$485.50",
+    "avgOrderGrowth": "+8.4%"
+  },
+  "monthlyRevenue": [
+    { "month": "Jan", "revenue": 85000, "customOrders": 240, "standardOrders": 410 },
+    { "month": "Feb", "revenue": 92000, "customOrders": 280, "standardOrders": 430 },
+    { "month": "Mar", "revenue": 105000, "customOrders": 320, "standardOrders": 490 },
+    { "month": "Apr", "revenue": 118000, "customOrders": 390, "standardOrders": 520 },
+    { "month": "May", "revenue": 134000, "customOrders": 450, "standardOrders": 580 },
+    { "month": "Jun", "revenue": 142000, "customOrders": 480, "standardOrders": 610 },
+    { "month": "Jul", "revenue": 168000, "customOrders": 560, "standardOrders": 690 },
+    { "month": "Aug", "revenue": 195000, "customOrders": 680, "standardOrders": 740 }
+  ],
+  "categoryShare": [
+    { "name": "Bespoke 3D Custom", "value": 45, "color": "#D4AF37" },
+    { "name": "AURA Gold Leaf No. 1", "value": 25, "color": "#E5B887" },
+    { "name": "Imperial Obsidian", "value": 18, "color": "#94A3B8" },
+    { "name": "Botanical Emerald", "value": 12, "color": "#2E4A3B" }
+  ],
+  "recentOrders": [
+    {
+      "id": "ORD-94821",
+      "customer": "Lord Alistair Vance",
+      "location": "Mayfair, London",
+      "product": "Bespoke 24K Gold Monogram Box (50 pcs)",
+      "total": "$1,250.00",
+      "status": "In Production",
+      "date": "Today, 14:20",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": "ORD-94820",
+      "customer": "Lady Genevieve Moreau",
+      "location": "Paris, France",
+      "product": "Royal Venetian Rose Edition",
+      "total": "$390.00",
+      "status": "Dispatched",
+      "date": "Today, 11:45",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": "ORD-94819",
+      "customer": "Kaito Takahashi",
+      "location": "Ginza, Tokyo",
+      "product": "Solstice White Gold Edition (3 Boxes)",
+      "total": "$675.00",
+      "status": "Delivered",
+      "date": "Yesterday, 19:10",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=150&auto=format&fit=crop"
+    },
+    {
+      "id": "ORD-94818",
+      "customer": "Baron von Sterling",
+      "location": "Zurich, Switzerland",
+      "product": "Imperial Obsidian Slims Custom Engraved",
+      "total": "$840.00",
+      "status": "Processing",
+      "date": "Yesterday, 16:30",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=150&auto=format&fit=crop"
+    }
+  ],
+  "topRegions": [
+    { "region": "United Kingdom & Europe", "sales": "$640,200", "share": 43 },
+    { "region": "North America", "sales": "$420,500", "share": 28 },
+    { "region": "Asia-Pacific", "sales": "$295,000", "share": 20 },
+    { "region": "Middle East", "sales": "$127,200", "share": 9 }
+  ]
+}

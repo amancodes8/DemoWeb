@@ -1,0 +1,242 @@
+[
+  {
+    "id": "volute-gold-leaf-no1",
+    "name": "VOLUTE Gold Leaf No. 1",
+    "brand": "VOLUTE PRIVÉ",
+    "category": "Cigarettes",
+    "tagline": "Aged Virginia Leaf with 24K Gold Accent",
+    "price": 350.00,
+    "rating": 4.98,
+    "reviewsCount": 142,
+    "isFeatured": true,
+    "isNew": true,
+    "blend": "Aged Virginia Bright & Turkish Oriental",
+    "nicotine": "0.8mg",
+    "tar": "8mg",
+    "packaging": "Pack of 20 Cigarettes",
+    "description": "Premium hand-crafted luxury cigarettes with 24K edible gold leaf filigree accents, cured Virginia Bright tobacco, and a dual-density silk filter for a smooth draw.",
+    "colors": {
+      "wrapper": "#ffffff",
+      "filter": "#d4af37",
+      "band": "#ffd700",
+      "tip": "#121212"
+    },
+    "specs": {
+      "length": "84mm",
+      "diameter": "7.8mm",
+      "filterType": "Silk & Charcoal Filter",
+      "paperType": "Unbleached Fine Linen Paper",
+      "origin": "India & Geneva Studio"
+    },
+    "image": "https://images.unsplash.com/photo-1527061011665-3652c757a4d4?q=80&w=800&auto=format&fit=crop",
+    "3dModelPreset": {
+      "filterShape": "Round",
+      "filterColor": "#d4af37",
+      "wrapperColor": "#f8f8f8",
+      "wrapperTexture": "Paper",
+      "bandColor": "#ffd700",
+      "metalness": 0.8,
+      "roughness": 0.2
+    }
+  },
+  {
+    "id": "volute-obsidian-slims",
+    "name": "VOLUTE Obsidian Slims",
+    "brand": "VOLUTE PRIVÉ",
+    "category": "Slims",
+    "tagline": "Dark Elegance & Smooth Charcoal Filter",
+    "price": 420.00,
+    "rating": 4.95,
+    "reviewsCount": 98,
+    "isFeatured": true,
+    "isNew": false,
+    "blend": "Dark-Fired Kentucky & Dark Air Cured",
+    "nicotine": "0.6mg",
+    "tar": "6mg",
+    "packaging": "Pack of 20 Slim Cigarettes",
+    "description": "Jet-black hemp paper slim cigarettes with a rose gold band and active coconut charcoal dual filter. Designed for a refined experience.",
+    "colors": {
+      "wrapper": "#121215",
+      "filter": "#1a1a1f",
+      "band": "#e5b887",
+      "tip": "#000000"
+    },
+    "specs": {
+      "length": "99mm",
+      "diameter": "6.1mm",
+      "filterType": "Activated Charcoal Micro-chamber",
+      "paperType": "Natural Obsidian Hemp Paper",
+      "origin": "India Atelier"
+    },
+    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?q=80&w=800&auto=format&fit=crop",
+    "3dModelPreset": {
+      "filterShape": "Round",
+      "filterColor": "#1c1c21",
+      "wrapperColor": "#111115",
+      "wrapperTexture": "Leather",
+      "bandColor": "#e5b887",
+      "metalness": 0.9,
+      "roughness": 0.3
+    }
+  },
+  {
+    "id": "volute-emerald-botanical",
+    "name": "VOLUTE Emerald Reserve",
+    "brand": "VOLUTE HERBAL",
+    "category": "Botanical",
+    "tagline": "Natural Lavender & Cured Leaf Blend",
+    "price": 299.00,
+    "rating": 4.92,
+    "reviewsCount": 76,
+    "isFeatured": true,
+    "isNew": true,
+    "blend": "Damiana, Lavender, Mint & Cured Bright Leaf",
+    "nicotine": "0.4mg",
+    "tar": "4mg",
+    "packaging": "Pack of 20 Botanical Cigarettes",
+    "description": "Infused with organic botanical terpenes and a subtle essence of lavender and mint. Wrapped in sage-green botanical fibers.",
+    "colors": {
+      "wrapper": "#2e4a3b",
+      "filter": "#1e3328",
+      "band": "#d4af37",
+      "tip": "#0f1c15"
+    },
+    "specs": {
+      "length": "84mm",
+      "diameter": "7.8mm",
+      "filterType": "Plant Cellulose & Mint Bead",
+      "paperType": "Organic Botanical Fiber Paper",
+      "origin": "India Atelier"
+    },
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop",
+    "3dModelPreset": {
+      "filterShape": "Hexagon",
+      "filterColor": "#1b3327",
+      "wrapperColor": "#294537",
+      "wrapperTexture": "Vintage",
+      "bandColor": "#d4af37",
+      "metalness": 0.6,
+      "roughness": 0.4
+    }
+  },
+  {
+    "id": "volute-venetian-rose",
+    "name": "VOLUTE Venetian Rose",
+    "brand": "VOLUTE PRIVÉ",
+    "category": "Flavored",
+    "tagline": "Aromatic Rose Capsule & Oriental Blend",
+    "price": 380.00,
+    "rating": 4.89,
+    "reviewsCount": 64,
+    "isFeatured": false,
+    "isNew": true,
+    "blend": "Greek Oriental & Damascena Rose Extract",
+    "nicotine": "0.5mg",
+    "tar": "5mg",
+    "packaging": "Pack of 20 Premium Cigarettes",
+    "description": "Velvet rose leaf casing with micro-perforated airflow tip and delicate aroma of Damascena rose petals.",
+    "colors": {
+      "wrapper": "#5c2a38",
+      "filter": "#3d1b24",
+      "band": "#ffd700",
+      "tip": "#291017"
+    },
+    "specs": {
+      "length": "88mm",
+      "diameter": "7.2mm",
+      "filterType": "Aromatic Flower Capsule",
+      "paperType": "Natural Rose Fiber Blend Paper",
+      "origin": "India Atelier"
+    },
+    "image": "https://images.unsplash.com/photo-1508746829417-e6f548d8d6ed?q=80&w=800&auto=format&fit=crop",
+    "3dModelPreset": {
+      "filterShape": "Round",
+      "filterColor": "#3d1b24",
+      "wrapperColor": "#5c2a38",
+      "wrapperTexture": "Gloss",
+      "bandColor": "#ffd700",
+      "metalness": 0.7,
+      "roughness": 0.25
+    }
+  },
+  {
+    "id": "volute-monarch-cigarillo",
+    "name": "VOLUTE Monarch Cigarillo",
+    "brand": "VOLUTE MONARCH",
+    "category": "Cigarillos",
+    "tagline": "Rich Aroma & Maduro Whole Leaf Wrapper",
+    "price": 550.00,
+    "rating": 4.99,
+    "reviewsCount": 210,
+    "isFeatured": true,
+    "isNew": false,
+    "blend": "Cuban-Seed Dominican & Indonesian Leaf",
+    "nicotine": "1.2mg",
+    "tar": "12mg",
+    "packaging": "Wooden Box Pack of 10 Cigarillos",
+    "description": "Robust blend wrapped in natural maduro tobacco wrapper with dual 24K gold foil bands and a smooth ceramic filter tip.",
+    "colors": {
+      "wrapper": "#3b2318",
+      "filter": "#24150e",
+      "band": "#ffd700",
+      "tip": "#0f0805"
+    },
+    "specs": {
+      "length": "110mm",
+      "diameter": "10.5mm",
+      "filterType": "Wood & Charcoal Filter",
+      "paperType": "Maduro Whole Tobacco Leaf",
+      "origin": "India Atelier"
+    },
+    "image": "https://images.unsplash.com/photo-1527061011665-3652c757a4d4?q=80&w=800&auto=format&fit=crop",
+    "3dModelPreset": {
+      "filterShape": "Hexagon",
+      "filterColor": "#24150e",
+      "wrapperColor": "#3b2318",
+      "wrapperTexture": "Leather",
+      "bandColor": "#ffd700",
+      "metalness": 0.85,
+      "roughness": 0.5
+    }
+  },
+  {
+    "id": "volute-solstice-white-gold",
+    "name": "VOLUTE Solstice White Gold",
+    "brand": "VOLUTE SOLSTICE",
+    "category": "Cigarettes",
+    "tagline": "Pure White Velvet Paper & Triple Silk Filter",
+    "price": 499.00,
+    "rating": 4.96,
+    "reviewsCount": 115,
+    "isFeatured": false,
+    "isNew": true,
+    "blend": "Golden Flake Virginia & Latakia Flute",
+    "nicotine": "0.7mg",
+    "tar": "7mg",
+    "packaging": "Pack of 20 White Gold Cigarettes",
+    "description": "Pure white velvet rice paper adorned with dual platinum filigree bands and a triple silk filter element for crystal-clear taste.",
+    "colors": {
+      "wrapper": "#fbfbfb",
+      "filter": "#e2e8f0",
+      "band": "#e5e7eb",
+      "tip": "#cbd5e1"
+    },
+    "specs": {
+      "length": "84mm",
+      "diameter": "7.8mm",
+      "filterType": "Triple Silk Core Filter",
+      "paperType": "Japanese Rice Paper",
+      "origin": "India Atelier"
+    },
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=800&auto=format&fit=crop",
+    "3dModelPreset": {
+      "filterShape": "Star",
+      "filterColor": "#e2e8f0",
+      "wrapperColor": "#fbfbfb",
+      "wrapperTexture": "Gloss",
+      "bandColor": "#ffffff",
+      "metalness": 0.95,
+      "roughness": 0.1
+    }
+  }
+]
